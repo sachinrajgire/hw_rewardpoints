@@ -4,7 +4,7 @@ import faker from 'faker' ;
 
 const createdRecords = []
 // Basic Assumptions
-// there are 90 days in 3 months and we are doing one transcation a day
+// Randomly assigning 100 transcation to months Jan, Feb and March
 // Total transcation Amount -- 0 < Amount < 500
 
 for(let i=0;i< 100 ;i++) {
